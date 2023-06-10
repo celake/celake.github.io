@@ -110,7 +110,10 @@ dl {
 
  footer {
     position: absolute;
+    left: 50%;
     bottom: 20;
+    background-color:none;
+    
  }
 
  footer p {
